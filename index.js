@@ -20,10 +20,8 @@ function makeInt(n){
     parseInt(n)
     return n;
 }
-function makeInt(a,base){
-    let parsed = parseInt(a,10)
-     parseInt(a,10)
-     return a;
+function makeInt(a){
+    return parseInt(0*2328,10);
 }
 function makeInt(b){
     parseInt("sldkjflksjf");
