@@ -21,7 +21,7 @@ function makeInt(n){
     return n;
 }
 function makeInt(a){
-    return parseInt(0*2328,10);
+    return parseInt(a,10);
 }
 function makeInt(b){
     parseInt("sldkjflksjf");
